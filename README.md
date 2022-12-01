@@ -1,4 +1,7 @@
 # K40-Gantry
+
+![Gantry V1](https://github.com/vr6syncro/K40-Gantry/blob/main/Gantry_v1.png)
+
 This is a K40 Gantry for small and big K40 Case.
 
 
