@@ -1,8 +1,8 @@
 ---
 name: Gantry problem
 about: Describe the problem here
-title: Problem
-labels: ''
+title: ''
+labels: problem
 assignees: ''
 
 ---
