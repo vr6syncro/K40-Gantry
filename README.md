@@ -4,6 +4,8 @@
 
 This is a K40 Gantry for small and big K40 Case.
 
+For more information see K40.tech
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
