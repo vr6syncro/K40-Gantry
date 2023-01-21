@@ -2,10 +2,12 @@
 
 ![Gantry V1](https://github.com/vr6syncro/K40-Gantry/blob/main/Gantry_v1.png)
 
-This is a K40 Gantry for small and big K40 Case.
+This is a Gantry for the K40 Laser Tool. It works for the original and the big version where u move the electric somewhere else and use the complete case.
 
-For more information see https://K40.tech
+For more information about the Gantry Mod in the original K40 Case see https://K40.tech
 
+The Case is mostly a remix from Adam Mac with some changes for my needs.
+The original Case can be found under: https://grabcad.com/library/k40-co2-laser-cutter-engraver-cnc-1
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
