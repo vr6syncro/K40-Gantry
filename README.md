@@ -4,6 +4,8 @@
 
 This is a Gantry for the K40 Laser Tool. It works for the original and the big version where u move the electric somewhere else and use the complete case.
 
+The Download can be found here: https://github.com/vr6syncro/K40-Gantry/releases
+
 For more information about the Gantry Mod in the original K40 Case see https://K40.tech
 
 The Case is mostly a remix from Adam Mac with some changes for my needs.
